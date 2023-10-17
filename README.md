@@ -10,8 +10,6 @@
 7. [Model Building](#model-building)
 8. [Results](#results)
 9. [Usage](#usage)
-10. [Contributing](#contributing)
-11. [License](#license)
 
 ## Introduction
 
