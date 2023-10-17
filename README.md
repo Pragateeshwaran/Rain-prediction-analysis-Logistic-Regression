@@ -76,10 +76,3 @@ The model achieved an accuracy of approximately 84.45% on the test data. It can 
 3. Open the Jupyter Notebook and execute the code cells for data analysis and model building.
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-You can customize this README to provide additional details or information specific to your project.
